@@ -4,9 +4,7 @@
     <fallback useFallback='true'></fallback>
     <shadowDOM useShadowDOM='true'></shadowDOM>
     <step action='navigateTo' value='"https://demosite.appvance.net/"' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='0fdc0c95-9f4c-4809-bbaf-3209a9581300' uiType='base'>
-      <dialect type='sahi'>
-        <accessor type='' value='' selected='true' fallback='false'></accessor>
-      </dialect>
+      <dialect type='sahi'></dialect>
     </step>
     <step action='click' value='' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='7fed6652-6843-49d3-9e58-01dfd5eee33d' uiType='base'>
       <dialect type='sahi'>
